@@ -23,9 +23,9 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 3️⃣ Run the project by opening index.html in your browser.
 
 ## 🎨 Tech Stack
-HTML5 for semantic structure
-CSS3 for layout and design
-javaScript
+* HTML5 for semantic structure
+* CSS3 for layout and design
+* javaScript
 
 <br>
 
