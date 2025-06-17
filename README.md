@@ -16,9 +16,9 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 
 
 ## 🚀 Getting Started
-1️⃣ Clone the repository: git clone https://github.com/pankajraghav15/raghav-meal.git
+1️⃣ Clone the repository: git clone https://github.com/pankajraghav15/rock-paper-scissors.git
 
-2️⃣ Open the project folder: cd raghav-meal
+2️⃣ Open the project folder: cd rock-paper-scissors
 
 3️⃣ Run the project by opening index.html in your browser.
 
